@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NavYuvakMandarApi", "NavYuvakMandarApi.csproj", "{59C2AAB5-9706-4607-BCAD-843E001D3CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "navYuvakMandarDB", "..\ConsoleApp1\navYuvakMandarDB.csproj", "{5A4A5BAD-1EB5-40F5-B970-B716394EBB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C2AAB5-9706-4607-BCAD-843E001D3CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C2AAB5-9706-4607-BCAD-843E001D3CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C2AAB5-9706-4607-BCAD-843E001D3CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C2AAB5-9706-4607-BCAD-843E001D3CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4A5BAD-1EB5-40F5-B970-B716394EBB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4A5BAD-1EB5-40F5-B970-B716394EBB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4A5BAD-1EB5-40F5-B970-B716394EBB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4A5BAD-1EB5-40F5-B970-B716394EBB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC683D4-8AE4-43E9-B71A-2260B3E53A22}
+	EndGlobalSection
+EndGlobal
