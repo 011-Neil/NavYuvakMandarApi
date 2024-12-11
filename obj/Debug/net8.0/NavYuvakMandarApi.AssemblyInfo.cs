@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NavYuvakMandarApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473c769907792e13eae828fa841ff725efa03468")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34309146f012fa7900a366c877b338d2301c9a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NavYuvakMandarApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NavYuvakMandarApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
